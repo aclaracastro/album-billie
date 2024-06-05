@@ -1,2 +1,2 @@
 # album-billie
-queria que funcionasse😩
+tentar fazer o commit pelo gitpush
